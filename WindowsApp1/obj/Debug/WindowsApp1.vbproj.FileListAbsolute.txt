@@ -1,0 +1,11 @@
+C:\Users\Io\source\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Io\source\WindowsApp1\bin\Debug\klipper splash screen creator.exe
+C:\Users\Io\source\WindowsApp1\bin\Debug\klipper splash screen creator.pdb
+C:\Users\Io\source\WindowsApp1\bin\Debug\klipper splash screen creator.xml
+C:\Users\Io\source\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper_splash_screen_creator.AboutBox1.resources
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper_splash_screen_creator.Form1.resources
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper_splash_screen_creator.Resources.resources
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper splash screen creator.exe
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper splash screen creator.xml
+C:\Users\Io\source\WindowsApp1\obj\Debug\klipper splash screen creator.pdb
